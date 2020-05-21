@@ -4,15 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-Show off your projects here!
-- [Awesome Project]()
-- [Cool Project]()
-- [New Project]()
-- [Old Project]()
-- [Hard Project]()
-- [School Project]()
-- [Project's Project]()
+[Code](https://github.com/hdb)
 
-# Talks
-- How to ????
+----
 
+[Academic](./academic) [archived]
