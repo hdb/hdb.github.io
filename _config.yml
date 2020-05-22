@@ -10,7 +10,7 @@ github_username: "hdb"
 linkedin_username: "hudsondiggsbailey"
 
 #baseurl: "/blog" 
-url: "https://hudsonbailey.org" # the base hostname & protocol for your site
+url: "hbd.github.io"
 
 #google_analytics_id: UA-1111111111-1
 #disqus_id:
